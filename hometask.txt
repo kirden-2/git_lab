@@ -7,3 +7,13 @@
 736e06cf7805bd396dd270a6723ec9f092c5c64f
 b15f811f878915057254ca3a7fdb1d4a43edbc7a
 df455a79680d70a43d65351f338e25d0ef26c169
+
+Вижу 8 коммитов (не считая коммита с добавлением этого текста)
+added hometask
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+init
